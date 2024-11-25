@@ -1,0 +1,1 @@
+# Hopping-Window-Mean-Aggregation
